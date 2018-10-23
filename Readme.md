@@ -1,4 +1,4 @@
-This is a Project Assignment for python software engineer in CrossOver
+
 
 
 the project runs a server script to do the follow :
